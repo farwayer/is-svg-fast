@@ -10,6 +10,7 @@
     "is-svg"
   ],
   "type": "module",
+  "sideEffects": false,
   "exports": {
     "import": "./index.js",
     "require": "./index.cjs"
