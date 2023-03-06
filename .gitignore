@@ -1,0 +1,8 @@
+.idea/
+.yarn/*
+!.yarn/releases/
+!.yarn/plugins/
+.pnp.*
+node_modules/
+.env
+index.cjs
