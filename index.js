@@ -2,7 +2,7 @@ import {parseXml} from '@rgrove/parse-xml'
 
 
 export let isSvg = str => {
-  str + '' === str || "pass string!"()
+  typeof str === 'string' || "pass string!"()
 
   // svg tolerant to edge whitespace characters
   // but the parser is not
