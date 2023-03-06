@@ -1,6 +1,6 @@
 {
   "name": "is-svg-fast",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "WTFPL",
   "description": "Fast check if a string is svg",
   "repository": "farwayer/is-svg-fast",
