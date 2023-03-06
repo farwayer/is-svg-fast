@@ -1,7 +1,7 @@
 # is-svg-fast
 
-The lib provides a fast basic check if a string is svg image in Node.js and
-browser
+The lib provides a fast basic check if a string is svg image (Node.js and
+browser)
 
 ## How to use
 
